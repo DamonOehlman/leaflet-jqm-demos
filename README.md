@@ -1,0 +1,1 @@
+This is hack-around with [LeafletJS](http://leaflet.cloudmade.com/) and jQuery Mobile to experiment with having Leaflet do things like what I'm used to doing in [Tile5](http://www.tile5.org/).
